@@ -11,4 +11,17 @@ Los modelos de dispersion del presente repositorio son:
 - AERMOD
 - CALPUFF
 
+## Estructura de archivos
+
+├── screen3
+│ ├── src
+│ └── examples
+├── aermod
+│ ├── src
+│ └── examples
+├── calpuff
+│ ├── src
+│ └── examples
+├── package.json
+
 &_______________________________________________________________________
