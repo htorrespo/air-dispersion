@@ -24,6 +24,7 @@ Los modelos de dispersion del presente repositorio son:
 │ ├── src
 │ └── examples
 ├── package.json
+└── README.md
 ```
 
 &_______________________________________________________________________
