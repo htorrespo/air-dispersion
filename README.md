@@ -13,6 +13,7 @@ Los modelos de dispersion del presente repositorio son:
 
 ## Estructura de archivos
 
+```terminal
 ├── screen3
 │ ├── src
 │ └── examples
@@ -23,5 +24,6 @@ Los modelos de dispersion del presente repositorio son:
 │ ├── src
 │ └── examples
 ├── package.json
+```
 
 &_______________________________________________________________________
