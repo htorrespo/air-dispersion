@@ -5,7 +5,7 @@ https://www.epa.gov/sites/production/files/2020-11/documents/appa.pdf
 -->
 
 ```terminal
-Fuel, kcal, Btu, % Sulpohur, % Ash
+Fuel, kcal, Btu, % Sulphur, % Ash
 Bituminous Coal, 7.200/kg, 13.000/lb, 0.6-5.4, 4-20
 Anthracite Coal, 6.810/kg, 12.300/lb, 0.5-1.0, 7.0-16.0
 Lignite (@ 35% moisture), 3.990/kg, 7.200/lb, 0.7, 6.2
