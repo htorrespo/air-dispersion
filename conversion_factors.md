@@ -4,6 +4,8 @@
 https://www.epa.gov/sites/production/files/2020-11/documents/appa.pdf
 -->
 
+TYPICAL PARAMETERS OF VARIOUS FUELS
+
 ```terminal
 Fuel, kcal, Btu, % Sulphur, % Ash
 Bituminous Coal, 7.200/kg, 13.000/lb, 0.6-5.4, 4-20
@@ -26,4 +28,22 @@ Blast Furnace Gas, 890/m3, 100/SCF, N, N
 N = negligible.
 
 Ash content may be considerably higher when sand, dirt, etc., are present.
+
+THERMAL EQUIVALENTS FOR VARIOUS FUELS
+
+Type Of Fuel | kcal | Btu (gross)
+------ | ------|----------
+Solid fuels | |
+Bituminous coal | (5.8 to 7.8) x 10^6/Mg | (21.0 to 28.0) x 10^6/ton 
+Anthracite coal | 7.03 x 10^ 6/Mg | 25.3 x 10^6/ton
+Lignite | 4.45 x 10^6/Mg | 16.0 x 10^6/ton
+Wood | 1.47 x 10^6/m3 | 21.0 x 106/cord
+Liquid fuels | |
+Residual fuel oil | 10x10^3/liter | 6.3x10^6/bbl
+Distillate fuel oil | 9.35 x 10^3/liter | 5.9x10^6/bbl
+Gaseous fuels | |
+Natural gas | 9.350/m3 | 1.050/ft3
+Liquefied petroleum gas | |
+Butane | 6.480/liter | 97.400/gal
+Propane | 6.030/liter | 90.500/gal
 
