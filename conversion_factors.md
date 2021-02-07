@@ -9,6 +9,8 @@ https://www.youtube.com/watch?v=FLnxgSZ0DG4
 Write a Unit Test for JavaScript (super simple!), 13 min
 https://www.youtube.com/watch?v=Rumf96j0cR0
 
+Hay que utilizar expresiones regulares en javascript para transformar la API
+
 Construccion de una API para conversion de unidades
 -->
 
