@@ -2,7 +2,7 @@
 
 <!--
 https://www.epa.gov/sites/production/files/2020-11/documents/appa.pdf
-->
+-->
 
 ```terminal
 Fuel, kcal, Btu, % Sulpohur, % Ash
