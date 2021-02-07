@@ -24,4 +24,6 @@ Coke Oven Gas, 5.249/m3, 590/SCF, 0.5-2.0, N
 Blast Furnace Gas, 890/m3, 100/SCF, N, N
 ```
 N = negligible.
+
 Ash content may be considerably higher when sand, dirt, etc., are present.
+
